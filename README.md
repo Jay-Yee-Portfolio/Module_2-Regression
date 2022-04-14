@@ -1,6 +1,5 @@
 # Predicting_NBA_Categories
-*Regression Project Write-Up*
-Predicting the Win% of a NBA team based on season average stats.
+*Regression Project Write-Up - Predicting the Win% of a NBA team based on season average stats.*
 
 ## Abstract
 The goal of this project was to build on the regression tools learned and put them into tangible use. Specifically, this project hopes to predict the win % (total wins / total losses) of a NBA team using that team’s per game stats for the season. The project begins with a webscraping of the official NBA website. The data was then scrubbed using best exploratory data analysis practices and finally used to create regression models. 
