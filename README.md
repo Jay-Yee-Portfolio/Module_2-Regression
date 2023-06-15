@@ -22,6 +22,3 @@ The remaining features were then split into an 80/20 train vs. test dataset and 
 -	Numpy, sklearn, and statsmodel were used to clean the data and build regression models
 -	Seaborn was used to create illustrations
 
-## Communication
-Results were presented via a PowerPoint presentation. 
-
